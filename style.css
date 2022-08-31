@@ -38,7 +38,7 @@ body, input {
 }
 
 body {
-  background: #EFEFEF;
+  background: #BFD7E4;
   
 }
 
@@ -55,9 +55,8 @@ header {
 
 header h1 {
   font-family: 'Staatliches', cursive;
-  font-weight: regular;
-  font-size: 48px;
-  line-height: 60px;
+  font-size: 36px;
+  line-height: 45px;
   color: #FFFFFF;
   margin-bottom: 18px;
   
@@ -166,7 +165,6 @@ fieldset p {
   color: #6c6a71;
 
 }
-
 
 .cols2 {
   display: flex;
